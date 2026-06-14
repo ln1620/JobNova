@@ -1,0 +1,17 @@
+.env
+.env.local
+*.pyc
+__pycache__/
+.venv/
+venv/
+node_modules/
+.next/
+dist/
+*.db
+.DS_Store
+.pytest_cache/
+playwright-report/
+test-results/
+uploads/
+services/apply-worker/chrome-profile/
+services/apply-worker/.venv/

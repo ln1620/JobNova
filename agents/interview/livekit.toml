@@ -1,0 +1,5 @@
+[project]
+  subdomain = "jobnova-test-d9kxbe38"
+
+[agent]
+  id = "jobnova-interview"
